@@ -3,7 +3,7 @@
 This Python script generates a heatmap chart of the Cybersecurity and Infrastructure Security Agency (CISA) Known Exploited Vulnerabilities (KEV) data.
 
 ## Heatmap example
-![2023-08-16 07_02_37-heatmap pdf - Brave](https://github.com/iamthefrogy/CISA-KEV-Heatmap-Generator/assets/8291014/d7657bfd-dd06-4ed0-82f3-ca7de75851e9)
+![image](https://github.com/iamthefrogy/cisa-kev-heatmap/assets/8291014/2d9f7a4e-b875-4ac6-8a96-ea12c57bac2d)
 
 ## Prerequisites
 
