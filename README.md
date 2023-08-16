@@ -1,4 +1,4 @@
-# CISA KEV Vulnerability Heatmap
+# CISA KEV Database Heatmap Generator
 
 This Python script generates a heatmap chart of the Cybersecurity and Infrastructure Security Agency (CISA) Known Exploited Vulnerabilities (KEV) data.
 
