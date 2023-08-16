@@ -28,7 +28,7 @@ git clone https://github.com/iamthefrogy/CISA-KEV-Heatmap-Generator.git
 cd CISA-KEV-Heatmap-Generator
 ```
 
-2.Download and prepare your CISA KEV vulnerability in CSV format and put that into the same location where your script is - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+2. Download and prepare your CISA KEV vulnerability in CSV format and put that into the same location where your script is - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 3. Run the script.
 ```bash
